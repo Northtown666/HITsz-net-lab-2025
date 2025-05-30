@@ -1,4 +1,6 @@
 /build
+/build_CLion
 /.vscode
+/.idea
 log
 out.pcap
