@@ -1,3 +1,348 @@
-Start testing: May 30 13:09 ?D1¨²¡À¨º¡Á?¨º¡À??
+Start testing: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
 ----------------------------------------------------------
-End testing: May 30 13:09 ?D1¨²¡À¨º¡Á?¨º¡À??
+1/8 Testing: eth_in
+1/8 Test: eth_in
+Command: "E:/net-lab/build_CLion/eth_in.exe" "E:/net-lab/testing/data/eth_in"
+Directory: E:/net-lab/build_CLion
+"eth_in" start time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+Output:
+----------------------------------------------------------
+[0;34mTest start
+[0m[0;34mFeeding input 01[0m0102030405060708091011121314151617[0;34m
+Sample input all processed, checking output
+[0m[0;34mChecking log file(compare with demo).
+[0m[0;32mRound 1: no differences
+[0m[0;32mRound 2: no differences
+[0m[0;32mRound 3: no differences
+[0m[0;32mRound 4: no differences
+[0m[0;32mRound 5: no differences
+[0m[0;32mRound 6: no differences
+[0m[0;32mRound 7: no differences
+[0m[0;32mRound 8: no differences
+[0m[0;32mRound 9: no differences
+[0m[0;32mRound 10: no differences
+[0m[0;32mRound 11: no differences
+[0m[0;32mRound 12: no differences
+[0m[0;32mRound 13: no differences
+[0m[0;32mRound 14: no differences
+[0m[0;32mRound 15: no differences
+[0m[0;32mRound 16: no differences
+[0m[0;32mRound 17: no differences
+[0m[0;32m====> All log rounds are the same to the demo.
+[0m
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"eth_in" end time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+"eth_in" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/8 Testing: eth_out
+2/8 Test: eth_out
+Command: "E:/net-lab/build_CLion/eth_out.exe" "E:/net-lab/testing/data/eth_out"
+Directory: E:/net-lab/build_CLion
+"eth_out" start time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+Output:
+----------------------------------------------------------
+[0;34mTest start
+[0m[0;34mFeeding input 01[0m0102030405060708091011121314151617[0;34m
+Sample input all processed, checking output
+[0m[0;34mChecking log file(compare with demo).
+[0m[0;32mRound 1: no differences
+[0m[0;32mRound 2: no differences
+[0m[0;32mRound 3: no differences
+[0m[0;32mRound 4: no differences
+[0m[0;32mRound 5: no differences
+[0m[0;32mRound 6: no differences
+[0m[0;32mRound 7: no differences
+[0m[0;32mRound 8: no differences
+[0m[0;32mRound 9: no differences
+[0m[0;32mRound 10: no differences
+[0m[0;32mRound 11: no differences
+[0m[0;32mRound 12: no differences
+[0m[0;32mRound 13: no differences
+[0m[0;32mRound 14: no differences
+[0m[0;32mRound 15: no differences
+[0m[0;32mRound 16: no differences
+[0m[0;32mRound 17: no differences
+[0m[0;32m====> All log rounds are the same to the demo.
+[0m[0;34mChecking pcap output file(compare with demo).
+[0m[0;32mPacket 1: no differences
+[0m[0;32mPacket 2: no differences
+[0m[0;32mPacket 3: no differences
+[0m[0;32mPacket 4: no differences
+[0m[0;32mPacket 5: no differences
+[0m[0;32mPacket 6: no differences
+[0m[0;32mPacket 7: no differences
+[0m[0;32mPacket 8: no differences
+[0m[0;32mPacket 9: no differences
+[0m[0;32mPacket 10: no differences
+[0m[0;32mPacket 11: no differences
+[0m[0;32mPacket 12: no differences
+[0m[0;32mPacket 13: no differences
+[0m[0;32mPacket 14: no differences
+[0m[0;32mPacket 15: no differences
+[0m[0;32mPacket 16: no differences
+[0m[0;32mPacket 17: no differences
+[0m[0;32m====> All packets are the same to the demo.
+[0m
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"eth_out" end time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+"eth_out" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/8 Testing: arp_test
+3/8 Test: arp_test
+Command: "E:/net-lab/build_CLion/arp_test.exe" "E:/net-lab/testing/data/arp_test"
+Directory: E:/net-lab/build_CLion
+"arp_test" start time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+Output:
+----------------------------------------------------------
+[0;34mTest begin.
+[0m[0;34mTest start
+[0m[0;34mFeeding input 01[0m010203040506070809101112131415[0;34m
+Sample input all processed, checking output
+[0m[0;34mChecking log file(compare with demo).
+[0m[0;32mRound 1: no differences
+[0m[0;32mRound 2: no differences
+[0m[0;32mRound 3: no differences
+[0m[0;32mRound 4: no differences
+[0m[0;32mRound 5: no differences
+[0m[0;32mRound 6: no differences
+[0m[0;32mRound 7: no differences
+[0m[0;32mRound 8: no differences
+[0m[0;32mRound 9: no differences
+[0m[0;32mRound 10: no differences
+[0m[0;32mRound 11: no differences
+[0m[0;32mRound 12: no differences
+[0m[0;32mRound 13: no differences
+[0m[0;32mRound 14: no differences
+[0m[0;32mRound 15: no differences
+[0m[0;32m====> All log rounds are the same to the demo.
+[0m[0;34mChecking pcap output file(compare with demo).
+[0m[0;32mPacket 1: no differences
+[0m[0;32mPacket 2: no differences
+[0m[0;32mPacket 3: no differences
+[0m[0;32mPacket 4: no differences
+[0m[0;32mPacket 5: no differences
+[0m[0;32mPacket 6: no differences
+[0m[0;32mPacket 7: no differences
+[0m[0;32mPacket 8: no differences
+[0m[0;32mPacket 9: no differences
+[0m[0;32m====> All packets are the same to the demo.
+[0m[0;33mFor this test, log is only a reference. Your implementation is OK if your pcap file is the same to the demo pcap file.
+[0m
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"arp_test" end time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+"arp_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/8 Testing: ip_test
+4/8 Test: ip_test
+Command: "E:/net-lab/build_CLion/ip_test.exe" "E:/net-lab/testing/data/ip_test"
+Directory: E:/net-lab/build_CLion
+"ip_test" start time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+Output:
+----------------------------------------------------------
+[0;34mTest begin.
+[0m[0;34mFeeding input 01[0m010203040506070809101112131415[0;34m
+Sample input all processed, checking output
+[0m[0;34mChecking log file(compare with demo).
+[0m[0;32mRound 1: no differences
+[0m[0;32mRound 2: no differences
+[0m[0;32mRound 3: no differences
+[0m[0;32mRound 4: no differences
+[0m[0;32mRound 5: no differences
+[0m[0;32mRound 6: no differences
+[0m[0;32mRound 7: no differences
+[0m[0;32mRound 8: no differences
+[0m[0;32mRound 9: no differences
+[0m[0;32mRound 10: no differences
+[0m[0;32mRound 11: no differences
+[0m[0;32mRound 12: no differences
+[0m[0;32mRound 13: no differences
+[0m[0;32mRound 14: no differences
+[0m[0;32mRound 15: no differences
+[0m[0;32m====> All log rounds are the same to the demo.
+[0m[0;34mChecking pcap output file(compare with demo).
+[0m[0;32mPacket 1: no differences
+[0m[0;32mPacket 2: no differences
+[0m[0;32mPacket 3: no differences
+[0m[0;32mPacket 4: no differences
+[0m[0;32mPacket 5: no differences
+[0m[0;32mPacket 6: no differences
+[0m[0;32mPacket 7: no differences
+[0m[0;32mPacket 8: no differences
+[0m[0;32mPacket 9: no differences
+[0m[0;32m====> All packets are the same to the demo.
+[0m[0;33mFor this test, log is only a reference. Your implementation is OK if your pcap file is the same to the demo pcap file.
+[0m
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"ip_test" end time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+"ip_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/8 Testing: ip_frag_test
+5/8 Test: ip_frag_test
+Command: "E:/net-lab/build_CLion/ip_frag_test.exe" "E:/net-lab/testing/data/ip_frag_test"
+Directory: E:/net-lab/build_CLion
+"ip_frag_test" start time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+Output:
+----------------------------------------------------------
+[0;34mFeeding input.
+[0m[0;34mComparing logs.
+[0m[0;32mLog file check passed
+[0m
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"ip_frag_test" end time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+"ip_frag_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/8 Testing: icmp_test
+6/8 Test: icmp_test
+Command: "E:/net-lab/build_CLion/icmp_test.exe" "E:/net-lab/testing/data/icmp_test"
+Directory: E:/net-lab/build_CLion
+"icmp_test" start time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+Output:
+----------------------------------------------------------
+[0;34mTest begin.
+[0m[0;34mFeeding input 01[0m010203040506070809101112131415[0;34m
+Sample input all processed, checking output
+[0m[0;34mChecking log file(compare with demo).
+[0m[0;32mRound 1: no differences
+[0m[0;32mRound 2: no differences
+[0m[0;32mRound 3: no differences
+[0m[0;32mRound 4: no differences
+[0m[0;32mRound 5: no differences
+[0m[0;32mRound 6: no differences
+[0m[0;32mRound 7: no differences
+[0m[0;32mRound 8: no differences
+[0m[0;32mRound 9: no differences
+[0m[0;32mRound 10: no differences
+[0m[0;32mRound 11: no differences
+[0m[0;32mRound 12: no differences
+[0m[0;32mRound 13: no differences
+[0m[0;32mRound 14: no differences
+[0m[0;32mRound 15: no differences
+[0m[0;32m====> All log rounds are the same to the demo.
+[0m[0;34mChecking pcap output file(compare with demo).
+[0m[0;32mPacket 1: no differences
+[0m[0;32mPacket 2: no differences
+[0m[0;32mPacket 3: no differences
+[0m[0;32mPacket 4: no differences
+[0m[0;32mPacket 5: no differences
+[0m[0;32mPacket 6: no differences
+[0m[0;32mPacket 7: no differences
+[0m[0;32mPacket 8: no differences
+[0m[0;32mPacket 9: no differences
+[0m[0;32mPacket 10: no differences
+[0m[0;32mPacket 11: no differences
+[0m[0;32mPacket 12: no differences
+[0m[0;32mPacket 13: no differences
+[0m[0;32m====> All packets are the same to the demo.
+[0m[0;33mFor this test, log is only a reference. Your implementation is OK if your pcap file is the same to the demo pcap file.
+[0m
+<end of output>
+Test time =   0.31 sec
+----------------------------------------------------------
+Test Passed.
+"icmp_test" end time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+"icmp_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/8 Testing: udp_test
+7/8 Test: udp_test
+Command: "E:/net-lab/build_CLion/udp_test.exe" "E:/net-lab/testing/data/udp_test"
+Directory: E:/net-lab/build_CLion
+"udp_test" start time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+Output:
+----------------------------------------------------------
+[0;34mTest begin.
+[0m[0;34mFeeding input 01[0m0102recv udp packet from 192.168.163.10:59040 len=5
+aaaaa
+03recv udp packet from 192.168.163.10:59040 len=5
+aaaaa
+04recv udp packet from 192.168.163.10:59040 len=5
+aaaaa
+[0;34m
+Sample input all processed, checking output
+[0m[0;34mChecking log file(compare with demo).
+[0m[0;32mRound 1: no differences
+[0m[0;32mRound 2: no differences
+[0m[0;32mRound 3: no differences
+[0m[0;32mRound 4: no differences
+[0m[0;32m====> All log rounds are the same to the demo.
+[0m[0;34mChecking pcap output file(compare with demo).
+[0m[0;32mPacket 1: no differences
+[0m[0;32mPacket 2: no differences
+[0m[0;32mPacket 3: no differences
+[0m[0;32mPacket 4: no differences
+[0m[0;32m====> All packets are the same to the demo.
+[0m[0;33mFor this test, log is only a reference. Your implementation is OK if your pcap file is the same to the demo pcap file.
+[0m
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"udp_test" end time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+"udp_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/8 Testing: tcp_test
+8/8 Test: tcp_test
+Command: "E:/net-lab/build_CLion/tcp_test.exe" "E:/net-lab/testing/data/tcp_test"
+Directory: E:/net-lab/build_CLion
+"tcp_test" start time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+Output:
+----------------------------------------------------------
+[0;34mTest begin.
+[0m[0;34mFeeding input 01[0m01020304a
+0506a
+0708a
+091011[0;34m
+Sample input all processed, checking output
+[0m[0;34mChecking log file(compare with demo).
+[0m[0;32mRound 1: no differences
+[0m[0;32mRound 2: no differences
+[0m[0;32mRound 3: no differences
+[0m[0;32mRound 4: no differences
+[0m[0;32mRound 5: no differences
+[0m[0;32mRound 6: no differences
+[0m[0;32mRound 7: no differences
+[0m[0;32mRound 8: no differences
+[0m[0;32mRound 9: no differences
+[0m[0;32mRound 10: no differences
+[0m[0;32mRound 11: no differences
+[0m[0;32m====> All log rounds are the same to the demo.
+[0m[0;34mChecking pcap output file(compare with demo).
+[0m[0;32mPacket 1: no differences
+[0m[0;32mPacket 2: no differences
+[0m[0;32mPacket 3: no differences
+[0m[0;32mPacket 4: no differences
+[0m[0;32mPacket 5: no differences
+[0m[0;32mPacket 6: no differences
+[0m[0;32m====> All packets are the same to the demo.
+[0m[0;33mFor this test, log is only a reference. Your implementation is OK if your pcap file is the same to the demo pcap file.
+[0m
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"tcp_test" end time: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
+"tcp_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 31 02:49 ?D1¨²¡À¨º¡Á?¨º¡À??
