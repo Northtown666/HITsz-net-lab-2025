@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "net",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "arp_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-arp_test-Debug-a7b994d6f823513ded54.json",
+					"name" : "arp_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eth_in::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eth_in-Debug-78a55378d4eef88840fa.json",
+					"name" : "eth_in",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eth_out::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eth_out-Debug-0eefffd71b0af6607157.json",
+					"name" : "eth_out",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "icmp_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-icmp_test-Debug-2b9d18a0aaaea86aecf9.json",
+					"name" : "icmp_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ip_frag_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ip_frag_test-Debug-f1bd9a17359dbe0860cd.json",
+					"name" : "ip_frag_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ip_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ip_test-Debug-0ee344ee45e9fb1148eb.json",
+					"name" : "ip_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tcp_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tcp_server-Debug-a0ded617b68d5322229a.json",
+					"name" : "tcp_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tcp_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tcp_test-Debug-5bf87bc244ac93914ceb.json",
+					"name" : "tcp_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "udp_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-udp_server-Debug-e1fa06e5d9633e6c4d9d.json",
+					"name" : "udp_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "udp_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-udp_test-Debug-6f812747be791f2dc5af.json",
+					"name" : "udp_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "web_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-web_server-Debug-2664b2367358b36c444d.json",
+					"name" : "web_server",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/net-lab/build_CLion",
+		"source" : "E:/net-lab"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
