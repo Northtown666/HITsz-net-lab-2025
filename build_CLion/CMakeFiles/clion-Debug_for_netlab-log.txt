@@ -1,5 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/mgw64/MinGW/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/mgw64/MinGW/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/mgw64/MinGW/bin/g++.exe -G "Unix Makefiles" -S E:\net-lab -B E:\net-lab\build_CLion
-Executable files is in .
--- Configuring done
--- Generating done
--- Build files have been written to: E:/net-lab/build_CLion

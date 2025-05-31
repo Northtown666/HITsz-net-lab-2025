@@ -1,9 +1,0 @@
-arp_test 8 0.0342026
-ip_test 4 0.0737431
-ip_frag_test 4 0.0632896
-icmp_test 4 0.0771908
-udp_test 5 0.0532348
-eth_in 2 0.133711
-eth_out 2 0.13034
-tcp_test 2 0.042834
----
